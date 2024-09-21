@@ -15,14 +15,14 @@ body {
 .logo-span {
     color: #2e2f42;
 }
-.header-studio {
+.headrs-style {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.header-studio:hover,
-.header-studio:focus {
+.headrs-style:hover,
+.headrs-style:focus {
     color: #404bbf;
 }
